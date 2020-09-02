@@ -1,0 +1,13 @@
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\HclNextGenSocialGoal.Model.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\HclNextGenSocialGoal.Model.pdb
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\HclNextGenSocialGoal.Core.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\HclNextGenSocialGoal.Core.pdb
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\obj\Debug\HclNextGenSocialGoal.Model.csprojAssemblyReference.cache
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\obj\Debug\HclNextGenSocialGoal.Model.csproj.CoreCompileInputs.cache
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\obj\Debug\HclNextGenSocialGoal.Model.csproj.CopyComplete
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\obj\Debug\HclNextGenSocialGoal.Model.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Model\obj\Debug\HclNextGenSocialGoal.Model.pdb

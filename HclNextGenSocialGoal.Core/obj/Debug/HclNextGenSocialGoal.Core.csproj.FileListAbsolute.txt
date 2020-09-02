@@ -1,0 +1,5 @@
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Core\bin\Debug\HclNextGenSocialGoal.Core.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Core\bin\Debug\HclNextGenSocialGoal.Core.pdb
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Core\obj\Debug\HclNextGenSocialGoal.Core.csproj.CoreCompileInputs.cache
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Core\obj\Debug\HclNextGenSocialGoal.Core.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialGoal.Core\obj\Debug\HclNextGenSocialGoal.Core.pdb

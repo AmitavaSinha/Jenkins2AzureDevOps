@@ -1,0 +1,16 @@
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\HclNextGenSocialSelenium.Test.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\HclNextGenSocialSelenium.Test.pdb
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\WebDriver.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\bin\Debug\WebDriver.xml
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\obj\Debug\HclNextGenSocialSelenium.Test.csprojAssemblyReference.cache
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\obj\Debug\HclNextGenSocialSelenium.Test.csproj.CoreCompileInputs.cache
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\obj\Debug\HclNextGenSocialSelenium.Test.csproj.CopyComplete
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\obj\Debug\HclNextGenSocialSelenium.Test.dll
+C:\COE\HCLNEXTGENSOCIAL\HclNextGenSocialSelenium.Test\obj\Debug\HclNextGenSocialSelenium.Test.pdb
